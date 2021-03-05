@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Load color scale -->
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+<!-- Create a div where the graph will take place -->
+<div id="bubble_chart"></div>
+
+<script>
+
+    // set the dimensions and margins of the graph
+    const margin = {top: 10, right: 20, bottom: 30, left: 50},
+          width = 500 - margin.left - margin.right,
+          height = 420 - margin.top - margin.bottom;
+    
+    // append the svg object to the body of the page
+    const svg = d3.select("#bubble_chart")
+      .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .style("background","WhiteSmoke")
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+    
+
+    //Read the data
+    d3.csv("https://raw.githubusercontent.com/leonadoan/test_dataset/main/data.csv", function(data) {
+    
+      // Add X axis
+      var x = d3.scaleLinear()
+        .domain([0, 500])
+        .range([ 0, width ]);
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+      
+        // Add X axis label:
+      svg.append("text")
+            .attr("text-anchor", "end")
+            .attr("x", width)
+            .attr("y", height+10 )
+            .text("Population");
+
+    
+      // Add Y axis
+      var y = d3.scaleLinear()
+        .domain([50, 500])
+        .range([ height, 0]);
+      svg.append("g")
+        .call(d3.axisLeft(y));
+
+      // Add Y axis label:
+      svg.append("text")
+          .attr("text-anchor", "end")
+          .attr("x", 0)
+          .attr("y", 0 )
+          .text("Income")
+          .attr("text-anchor", "start")
+    
+      // Add a scale for bubble size
+      var z = d3.scaleLinear()
+        .domain([10, 65])
+        .range([ 4, 40]);
+    
+      // Add a scale for bubble color
+      function colourPicker(v){
+            if (v<=20) {return "#92a8d1";}
+            else if (v>20 && v<=30) {return "#034f84";}
+            else if (v>30 && v<=40) {return "#f7cac9";}
+            else if (v>40 && v<=50) {return "#f7786b";}
+            else if (v>50) {return "#c94c4c";}}
+    
+      // Add dots
+      svg.append('g')
+        .selectAll("dot")
+        .data(data)
+        .enter()
+        .append("circle")
+          .attr("cx", function (d) { return x(d.Population); } )
+          .attr("cy", function (d) { return y(d.Income); } )
+          .attr("r", function (d) { return z(d.Average_household_wage); } )
+          .style("fill", function(d){ return colourPicker(d.Average_household_wage);} )
+          .style("opacity", "0.7")
+          .attr("stroke", "white")
+          .style("stroke-width", "2px")
+
+
+        // Label
+        svg.append('g')
+            .selectAll("text")
+            .data(data)
+            .enter()
+            .append("text")
+            .text(d => d.Country)
+            .attr("x", function (d) { return x(d.Population); })
+            .attr("y", function (d) { return y(d.Income)+  z(d.Average_household_wage)*1.6 ; })
+            .attr("text-anchor", "middle")
+            .attr("font-family", "sans-serif")
+            .attr("font-size", 12)
+            .attr("fill", "black")
+
+
+      })
+     
+
+    </script>
