@@ -1,0 +1,1226 @@
+[
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA 2D Ani",
+        "CourseFullName": "BA (Hons) 2D Animation",
+        "coursesize": "22",
+        "Gender": "Female",
+        "size": "12"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA 2D Ani",
+        "CourseFullName": "BA (Hons) 2D Animation",
+        "coursesize": "22",
+        "Gender": "Male",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Brdcst Prod",
+        "CourseFullName": "BA (Hons) Broadcast Media Production",
+        "coursesize": "12",
+        "Gender": "Female",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Brdcst Prod",
+        "CourseFullName": "BA (Hons) Broadcast Media Production",
+        "coursesize": "12",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Cncpt Art",
+        "CourseFullName": "BA (Hons) Concept Art",
+        "coursesize": "240",
+        "Gender": "Female",
+        "size": "107"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Cncpt Art",
+        "CourseFullName": "BA (Hons) Concept Art",
+        "coursesize": "240",
+        "Gender": "Male",
+        "size": "133"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Comics",
+        "CourseFullName": "BA (Hons) Comics and Graphic Novels",
+        "coursesize": "20",
+        "Gender": "Female",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Comics",
+        "CourseFullName": "BA (Hons) Comics and Graphic Novels",
+        "coursesize": "20",
+        "Gender": "Male",
+        "size": "16"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Ani",
+        "CourseFullName": "BA (Hons) Computer Animation",
+        "coursesize": "32",
+        "Gender": "Female",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Ani",
+        "CourseFullName": "BA (Hons) Computer Animation",
+        "coursesize": "32",
+        "Gender": "Male",
+        "size": "23"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Vis.Eff",
+        "CourseFullName": "BA (Hons) Computer Animation and Visual Effects",
+        "coursesize": "21",
+        "Gender": "Female",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Vis.Eff",
+        "CourseFullName": "BA (Hons) Computer Animation and Visual Effects",
+        "coursesize": "21",
+        "Gender": "Male",
+        "size": "11"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Vis.Eff -FY",
+        "CourseFullName": "BA (Hons) Computer Animation and Visual Effects (with Foundation Year)",
+        "coursesize": "2",
+        "Gender": "Female",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Vis.Eff -FY",
+        "CourseFullName": "BA (Hons) Computer Animation and Visual Effects (with Foundation Year)",
+        "coursesize": "2",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Char Ani",
+        "CourseFullName": "BA (Hons) Computer Character Animation",
+        "coursesize": "56",
+        "Gender": "Female",
+        "size": "22"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Char Ani",
+        "CourseFullName": "BA (Hons) Computer Character Animation",
+        "coursesize": "56",
+        "Gender": "Male",
+        "size": "34"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp CharAni -FY",
+        "CourseFullName": "BA (Hons) Computer Character Animation (with Foundation Year)",
+        "coursesize": "18",
+        "Gender": "Female",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp CharAni -FY",
+        "CourseFullName": "BA (Hons) Computer Character Animation (with Foundation Year)",
+        "coursesize": "18",
+        "Gender": "Male",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Ani",
+        "CourseFullName": "BA (Hons) Computer Games Animation",
+        "coursesize": "15",
+        "Gender": "Female",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Ani",
+        "CourseFullName": "BA (Hons) Computer Games Animation",
+        "coursesize": "15",
+        "Gender": "Male",
+        "size": "7"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Ani -FY",
+        "CourseFullName": "BA (Hons) Computer Games Animation (with Foundation Year)",
+        "coursesize": "2",
+        "Gender": "Male",
+        "size": "2"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Art",
+        "CourseFullName": "BA (Hons) Computer Games Art",
+        "coursesize": "226",
+        "Gender": "Female",
+        "size": "100"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Art",
+        "CourseFullName": "BA (Hons) Computer Games Art",
+        "coursesize": "226",
+        "Gender": "Male",
+        "size": "126"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Art -FY",
+        "CourseFullName": "BA (Hons) Computer Games Art (with Foundation Year)",
+        "coursesize": "15",
+        "Gender": "Female",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Art -FY",
+        "CourseFullName": "BA (Hons) Computer Games Art (with Foundation Year)",
+        "coursesize": "15",
+        "Gender": "Male",
+        "size": "7"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Dsgn",
+        "CourseFullName": "BA (Hons) Computer Games Design",
+        "coursesize": "190",
+        "Gender": "Female",
+        "size": "78"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Dsgn",
+        "CourseFullName": "BA (Hons) Computer Games Design",
+        "coursesize": "190",
+        "Gender": "Male",
+        "size": "112"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Dsgn -FY",
+        "CourseFullName": "BA (Hons) Computer Games Design (with Foundation Year)",
+        "coursesize": "16",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Cp Gm Dsgn -FY",
+        "CourseFullName": "BA (Hons) Computer Games Design (with Foundation Year)",
+        "coursesize": "16",
+        "Gender": "Male",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Dance",
+        "CourseFullName": "BA (Hons) Dance",
+        "coursesize": "4",
+        "Gender": "Female",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Dance",
+        "CourseFullName": "BA (Hons) Dance",
+        "coursesize": "4",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA FlmTV Prod",
+        "CourseFullName": "BA (Hons) Film and Television Production",
+        "coursesize": "87",
+        "Gender": "Female",
+        "size": "35"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA FlmTV Prod",
+        "CourseFullName": "BA (Hons) Film and Television Production",
+        "coursesize": "87",
+        "Gender": "Male",
+        "size": "52"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Flm Med.",
+        "CourseFullName": "BA (Hons) Film, Media and Culture",
+        "coursesize": "13",
+        "Gender": "Female",
+        "size": "7"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Flm Med.",
+        "CourseFullName": "BA (Hons) Film, Media and Culture",
+        "coursesize": "13",
+        "Gender": "Male",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Fine Art",
+        "CourseFullName": "BA (Hons) Fine Art",
+        "coursesize": "59",
+        "Gender": "Female",
+        "size": "22"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Fine Art",
+        "CourseFullName": "BA (Hons) Fine Art",
+        "coursesize": "59",
+        "Gender": "Male",
+        "size": "37"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Ind Gm Dev",
+        "CourseFullName": "BA (Hons) Indie Games Development",
+        "coursesize": "32",
+        "Gender": "Female",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Ind Gm Dev",
+        "CourseFullName": "BA (Hons) Indie Games Development",
+        "coursesize": "32",
+        "Gender": "Male",
+        "size": "24"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Jrnlism",
+        "CourseFullName": "BA (Hons) Journalism",
+        "coursesize": "55",
+        "Gender": "Female",
+        "size": "23"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Jrnlism",
+        "CourseFullName": "BA (Hons) Journalism",
+        "coursesize": "55",
+        "Gender": "Male",
+        "size": "32"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Jrnlism (Mag)",
+        "CourseFullName": "BA (Hons) Journalism (Magazine)",
+        "coursesize": "5",
+        "Gender": "Female",
+        "size": "2"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Jrnlism (Mag)",
+        "CourseFullName": "BA (Hons) Journalism (Magazine)",
+        "coursesize": "5",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Jrnlism(Sprts)",
+        "CourseFullName": "BA (Hons) Journalism (Sports)",
+        "coursesize": "11",
+        "Gender": "Female",
+        "size": "2"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Jrnlism(Sprts)",
+        "CourseFullName": "BA (Hons) Journalism (Sports)",
+        "coursesize": "11",
+        "Gender": "Male",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Med.Comm",
+        "CourseFullName": "BA (Hons) Media and Communications",
+        "coursesize": "11",
+        "Gender": "Female",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Med.Comm",
+        "CourseFullName": "BA (Hons) Media and Communications",
+        "coursesize": "11",
+        "Gender": "Male",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Med. Studies",
+        "CourseFullName": "BA (Hons) Media Studies",
+        "coursesize": "15",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Med. Studies",
+        "CourseFullName": "BA (Hons) Media Studies",
+        "coursesize": "15",
+        "Gender": "Male",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Mm. Jrnlism",
+        "CourseFullName": "BA (Hons) Multimedia Journalism",
+        "coursesize": "2",
+        "Gender": "Female",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Mm. Jrnlism",
+        "CourseFullName": "BA (Hons) Multimedia Journalism",
+        "coursesize": "2",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Per Arts",
+        "CourseFullName": "BA (Hons) Performing Arts",
+        "coursesize": "10",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Per Arts",
+        "CourseFullName": "BA (Hons) Performing Arts",
+        "coursesize": "10",
+        "Gender": "Male",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Per fr Med.",
+        "CourseFullName": "BA (Hons) Performance for Live and Recorded Media",
+        "coursesize": "20",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Per fr Med.",
+        "CourseFullName": "BA (Hons) Performance for Live and Recorded Media",
+        "coursesize": "20",
+        "Gender": "Male",
+        "size": "14"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Seq Art",
+        "CourseFullName": "BA (Hons) Comics, Graphic Novels and Sequential Art",
+        "coursesize": "55",
+        "Gender": "Female",
+        "size": "17"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Seq Art",
+        "CourseFullName": "BA (Hons) Comics, Graphic Novels and Sequential Art",
+        "coursesize": "55",
+        "Gender": "Male",
+        "size": "38"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Sport Jrnlism",
+        "CourseFullName": "BA (Hons) Sport Journalism",
+        "coursesize": "18",
+        "Gender": "Female",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA Sport Jrnlism",
+        "CourseFullName": "BA (Hons) Sport Journalism",
+        "coursesize": "18",
+        "Gender": "Male",
+        "size": "13"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA TV FlmProd",
+        "CourseFullName": "BA (Hons) Television and Film Production",
+        "coursesize": "43",
+        "Gender": "Female",
+        "size": "20"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "BA TV FlmProd",
+        "CourseFullName": "BA (Hons) Television and Film Production",
+        "coursesize": "43",
+        "Gender": "Male",
+        "size": "23"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Vis.Eff",
+        "CourseFullName": "BA (Hons) Visual Effects",
+        "coursesize": "27",
+        "Gender": "Female",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BA Vis.Eff",
+        "CourseFullName": "BA (Hons) Visual Effects",
+        "coursesize": "27",
+        "Gender": "Male",
+        "size": "18"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BA Web N Mm.",
+        "CourseFullName": "BA (Hons) Web and Multimedia",
+        "coursesize": "4",
+        "Gender": "Female",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BA Web N Mm.",
+        "CourseFullName": "BA (Hons) Web and Multimedia",
+        "coursesize": "4",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc  Cp",
+        "CourseFullName": "BSc (Hons) Computing",
+        "coursesize": "50",
+        "Gender": "Female",
+        "size": "13"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc  Cp",
+        "CourseFullName": "BSc (Hons) Computing",
+        "coursesize": "50",
+        "Gender": "Male",
+        "size": "37"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc Cp Gm Prog",
+        "CourseFullName": "BSc (Hons) Computer Games Programming",
+        "coursesize": "117",
+        "Gender": "Female",
+        "size": "43"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc Cp Gm Prog",
+        "CourseFullName": "BSc (Hons) Computer Games Programming",
+        "coursesize": "117",
+        "Gender": "Male",
+        "size": "74"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc Cp with FY",
+        "CourseFullName": "BSc (Hons) Computing with Foundation Year",
+        "coursesize": "8",
+        "Gender": "Female",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc Cp with FY",
+        "CourseFullName": "BSc (Hons) Computing with Foundation Year",
+        "coursesize": "8",
+        "Gender": "Male",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc CS",
+        "CourseFullName": "BSc (Hons) Computer Science",
+        "coursesize": "168",
+        "Gender": "Female",
+        "size": "73"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc CS",
+        "CourseFullName": "BSc (Hons) Computer Science",
+        "coursesize": "168",
+        "Gender": "Male",
+        "size": "95"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc CS with FY",
+        "CourseFullName": "BSc (Hons) Computer Science with Foundation Year",
+        "coursesize": "16",
+        "Gender": "Female",
+        "size": "7"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc CS with FY",
+        "CourseFullName": "BSc (Hons) Computer Science with Foundation Year",
+        "coursesize": "16",
+        "Gender": "Male",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc CySecNtwrks",
+        "CourseFullName": "BSc (Hons) Cybersecurity and Networks",
+        "coursesize": "96",
+        "Gender": "Female",
+        "size": "42"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc CySecNtwrks",
+        "CourseFullName": "BSc (Hons) Cybersecurity and Networks",
+        "coursesize": "96",
+        "Gender": "Male",
+        "size": "54"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc Digi Med.",
+        "CourseFullName": "BSc (Hons) Digital Media",
+        "coursesize": "4",
+        "Gender": "Male",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc HlthInfrmatics",
+        "CourseFullName": "BSc (Hons) Health Informatics",
+        "coursesize": "11",
+        "Gender": "Female",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc HlthInfrmatics",
+        "CourseFullName": "BSc (Hons) Health Informatics",
+        "coursesize": "11",
+        "Gender": "Male",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc  Music Tech",
+        "CourseFullName": "BSc (Hons) Music Technology",
+        "coursesize": "17",
+        "Gender": "Female",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc  Music Tech",
+        "CourseFullName": "BSc (Hons) Music Technology",
+        "coursesize": "17",
+        "Gender": "Male",
+        "size": "12"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BSc  Tech Gm Dev",
+        "CourseFullName": "BSc (Hons) Technical Game Development",
+        "coursesize": "40",
+        "Gender": "Female",
+        "size": "14"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "BSc  Tech Gm Dev",
+        "CourseFullName": "BSc (Hons) Technical Game Development",
+        "coursesize": "40",
+        "Gender": "Male",
+        "size": "26"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc  Web Prod",
+        "CourseFullName": "BSc (Hons) Web Production",
+        "coursesize": "22",
+        "Gender": "Female",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc  Web Prod",
+        "CourseFullName": "BSc (Hons) Web Production",
+        "coursesize": "22",
+        "Gender": "Male",
+        "size": "12"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc IT",
+        "CourseFullName": "BSc (Hons) Information Technology",
+        "coursesize": "51",
+        "Gender": "Female",
+        "size": "25"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "BSc IT",
+        "CourseFullName": "BSc (Hons) Information Technology",
+        "coursesize": "51",
+        "Gender": "Male",
+        "size": "26"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA 3D Gm Art",
+        "CourseFullName": "MA 3D Games Art",
+        "coursesize": "37",
+        "Gender": "Female",
+        "size": "15"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA 3D Gm Art",
+        "CourseFullName": "MA 3D Games Art",
+        "coursesize": "37",
+        "Gender": "Male",
+        "size": "22"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Ani",
+        "CourseFullName": "MA Animation",
+        "coursesize": "16",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Ani",
+        "CourseFullName": "MA Animation",
+        "coursesize": "16",
+        "Gender": "Male",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Cncpt Art",
+        "CourseFullName": "MA Concept Art",
+        "coursesize": "18",
+        "Gender": "Female",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Cncpt Art",
+        "CourseFullName": "MA Concept Art",
+        "coursesize": "18",
+        "Gender": "Male",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Cncpt Art",
+        "CourseFullName": "MA Concept Art",
+        "coursesize": "31",
+        "Gender": "Female",
+        "size": "13"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Cncpt Art",
+        "CourseFullName": "MA Concept Art",
+        "coursesize": "31",
+        "Gender": "Male",
+        "size": "18"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA DigiMedComm",
+        "CourseFullName": "MA Digital Media and Communications",
+        "coursesize": "7",
+        "Gender": "Female",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA DigiMedComm",
+        "CourseFullName": "MA Digital Media and Communications",
+        "coursesize": "7",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Film N TV",
+        "CourseFullName": "MA Producing for Film and Television",
+        "coursesize": "8",
+        "Gender": "Female",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Film N TV",
+        "CourseFullName": "MA Producing for Film and Television",
+        "coursesize": "8",
+        "Gender": "Male",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Fine Art",
+        "CourseFullName": "MA Fine Art",
+        "coursesize": "33",
+        "Gender": "Female",
+        "size": "13"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Fine Art",
+        "CourseFullName": "MA Fine Art",
+        "coursesize": "33",
+        "Gender": "Male",
+        "size": "20"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Gm Dev",
+        "CourseFullName": "MA Games Development",
+        "coursesize": "6",
+        "Gender": "Female",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Gm Dev",
+        "CourseFullName": "MA Games Development",
+        "coursesize": "6",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Gm Dsgn",
+        "CourseFullName": "MA Games Design",
+        "coursesize": "32",
+        "Gender": "Female",
+        "size": "10"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Gm Dsgn",
+        "CourseFullName": "MA Games Design",
+        "coursesize": "32",
+        "Gender": "Male",
+        "size": "22"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Gm N Ani",
+        "CourseFullName": "MA Concept Art for Games and Animation",
+        "coursesize": "3",
+        "Gender": "Female",
+        "size": "2"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Gm N Ani",
+        "CourseFullName": "MA Concept Art for Games and Animation",
+        "coursesize": "3",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Mm. Pub Rel",
+        "CourseFullName": "MA Multimedia Public Relations",
+        "coursesize": "9",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Mm. Pub Rel",
+        "CourseFullName": "MA Multimedia Public Relations",
+        "coursesize": "9",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CAM",
+        "CourseName": "MA Photography",
+        "CourseFullName": "MA Photography",
+        "coursesize": "1",
+        "Gender": "Female",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Vis.Eff",
+        "CourseFullName": "MA Visual Effects",
+        "coursesize": "2",
+        "Gender": "Female",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MA Vis.Eff",
+        "CourseFullName": "MA Visual Effects",
+        "coursesize": "2",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp GmDsgn",
+        "CourseFullName": "MComp (Hons) Computer Games Design",
+        "coursesize": "31",
+        "Gender": "Female",
+        "size": "13"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp GmDsgn",
+        "CourseFullName": "MComp (Hons) Computer Games Design",
+        "coursesize": "31",
+        "Gender": "Male",
+        "size": "18"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp Cp Gm Prog",
+        "CourseFullName": "MComp (Hons) Computer Games Programming",
+        "coursesize": "32",
+        "Gender": "Female",
+        "size": "15"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp Cp Gm Prog",
+        "CourseFullName": "MComp (Hons) Computer Games Programming",
+        "coursesize": "32",
+        "Gender": "Male",
+        "size": "17"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp  CS",
+        "CourseFullName": "MComp (Hons) Computer Science",
+        "coursesize": "17",
+        "Gender": "Female",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp  CS",
+        "CourseFullName": "MComp (Hons) Computer Science",
+        "coursesize": "17",
+        "Gender": "Male",
+        "size": "9"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp  Gm Dev",
+        "CourseFullName": "MComp (Hons) Games Development",
+        "coursesize": "22",
+        "Gender": "Female",
+        "size": "8"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp  Gm Dev",
+        "CourseFullName": "MComp (Hons) Games Development",
+        "coursesize": "22",
+        "Gender": "Male",
+        "size": "14"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp Vis.Eff",
+        "CourseFullName": "MComp (Hons) Visual Effects",
+        "coursesize": "3",
+        "Gender": "Female",
+        "size": "2"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MCp Vis.Eff",
+        "CourseFullName": "MComp (Hons) Visual Effects",
+        "coursesize": "3",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc Cp",
+        "CourseFullName": "MSc Computing",
+        "coursesize": "21",
+        "Gender": "Female",
+        "size": "7"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc Cp",
+        "CourseFullName": "MSc Computing",
+        "coursesize": "21",
+        "Gender": "Male",
+        "size": "14"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc Cp Sec Ntwrks",
+        "CourseFullName": "MSc Computer Security and Networks",
+        "coursesize": "5",
+        "Gender": "Female",
+        "size": "4"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc Cp Sec Ntwrks",
+        "CourseFullName": "MSc Computer Security and Networks",
+        "coursesize": "5",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc CS",
+        "CourseFullName": "MSc Computer Science",
+        "coursesize": "6",
+        "Gender": "Female",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc CS",
+        "CourseFullName": "MSc Computer Science",
+        "coursesize": "6",
+        "Gender": "Male",
+        "size": "1"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc CySecurity",
+        "CourseFullName": "MSc Cybersecurity",
+        "coursesize": "21",
+        "Gender": "Female",
+        "size": "6"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc CySecurity",
+        "CourseFullName": "MSc Cybersecurity",
+        "coursesize": "21",
+        "Gender": "Male",
+        "size": "15"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc DS",
+        "CourseFullName": "MSc Data Science",
+        "coursesize": "5",
+        "Gender": "Female",
+        "size": "2"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc DS",
+        "CourseFullName": "MSc Data Science",
+        "coursesize": "5",
+        "Gender": "Male",
+        "size": "3"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc IT Prj Mgmt",
+        "CourseFullName": "MSc IT Project Management",
+        "coursesize": "12",
+        "Gender": "Female",
+        "size": "7"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "CSIS",
+        "CourseName": "MSc IT Prj Mgmt",
+        "CourseFullName": "MSc IT Project Management",
+        "coursesize": "12",
+        "Gender": "Male",
+        "size": "5"
+    },
+    {
+        "University": "Teesside University",
+        "Department": "GAV",
+        "CourseName": "MSc Tech Vis.Eff",
+        "CourseFullName": "MSc Technical Direction for Visual Effects",
+        "coursesize": "2",
+        "Gender": "Female",
+        "size": "2"
+    }
+]

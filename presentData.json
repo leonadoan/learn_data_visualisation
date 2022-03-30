@@ -1,0 +1,160 @@
+[
+    {
+        "Week": "2",
+        "values": [
+            {
+                "value": 4037,
+                "gender": "Female"
+            },
+            
+            {
+                "value": 5744,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "3",
+        "values": [
+            {
+                "value": 4473,
+                "gender": "Female"
+            },
+           
+            {
+                "value": 6237,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "4",
+        "values": [
+            {
+                "value": 4082,
+                "gender": "Female"
+            },
+            {
+                "value": 5659,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "5",
+        "values": [
+            {
+                "value": 4023,
+                "gender": "Female"
+            },
+            {
+                "value": 5439,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "6",
+        "values": [
+            {
+                "value": 3601,
+                "gender": "Female"
+            },
+            {
+                "value": 4968,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "7",
+        "values": [
+            {
+                "value": 3199,
+                "gender": "Female"
+            },
+            {
+                "value": 4383,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "8",
+        "values": [
+            {
+                "value": 3180,
+                "gender": "Female"
+            },
+            {
+                "value": 4421,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "9",
+        "values": [
+            {
+                "value": 3115,
+                "gender": "Female"
+            },
+            {
+                "value": 4155,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "10",
+        "values": [
+            {
+                "value": 2982,
+                "gender": "Female"
+            },
+            {
+                "value": 4175,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "11",
+        "values": [
+            {
+                "value": 2818,
+                "gender": "Female"
+            },
+            {
+                "value": 3892,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "12",
+        "values": [
+            {
+                "value": 2462,
+                "gender": "Female"
+            },
+            {
+                "value": 3397,
+                "gender": "Male"
+            }
+        ]
+    },
+    {
+        "Week": "13",
+        "values": [
+            {
+                "value": 1630,
+                "gender": "Female"
+            },
+            {
+                "value": 2337,
+                "gender": "Male"
+            }
+        ]
+    }
+]
